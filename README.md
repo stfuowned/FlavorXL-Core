@@ -80,7 +80,7 @@ cd ~; wget http://download.oracle.com/berkeley-db/db-6.2.32.NC.tar.gz; tar zxf d
 
 ### GitHub pull (Source Download)
 ```
-cd ~; git clone https://github.com/FlavorXL/FlavorXL-Core FlavorXL
+cd ~; git clone https://github.com/CryptoCoderz/FlavorXL-Core FlavorXL
 ```
 
 ### Build FlavorXL daemon
